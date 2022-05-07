@@ -14,3 +14,12 @@ PROJECT SETUP:
 3. Create index.js inside src folder as an entry point to the api.
 4. Install "nodemon (npm install -D nodemon)" to run the server continuosly on code changes.
 5. Install express and configure in index.js
+
+VERSIONING: 
+Next, we create separate versions our api, so that we can work on one version while the other one is still in use. We do that by creating subfolders (v1,v2) for each version inside the src directory. We can the add path segment v1 or v2 in the URL. 
+
+We create separate api routes for both versions by having routers subfolders in each version.
+
+Since we'll be using different controllers and services for the api, it's best to have these subfolders inside separate version subfolders.
+
+[Note: This project is a basic project, so we can keep the controllers and services as common for both versions.]
