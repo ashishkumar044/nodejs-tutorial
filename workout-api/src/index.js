@@ -1,6 +1,6 @@
 const express = require('express');
 
-const v1Router = require('./v1/routes');
+const v1Router = require('./v1/routes/workoutRoutes');
 const v2Router = require('./v2/routes')
 
 const app = express();
