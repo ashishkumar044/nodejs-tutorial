@@ -1,0 +1,59 @@
+{
+    "workouts": [
+      {
+        "id": "1",
+        "name": "Pushups",
+        "mode": "Calisthenics",
+        "equipment": [],
+        "exercises": [
+          "30 Normal pushups",
+          "15 Elevated pushups",
+          "15 Diamond pushups",
+          "15 Archer pushups"
+        ],
+        "createdAt": "12/05/2022, 12:21:56 PM",
+        "updatedAt": "12/05/2022, 12:21:56 PM",
+        "trainerTips": [
+          "Keep the body straight",
+          "Squeeze the core",
+          "Go down, stay and come up"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Squats",
+        "mode": "Calisthenics",
+        "equipment": [],
+        "exercises": [
+          "25 normal squats",
+          "15 pistol squats"
+        ],
+        "createdAt": "12/05/2022, 12:21:56 PM",
+        "updatedAt": "12/05/2022, 12:21:56 PM",
+        "trainerTips": [
+          "Go down as much as you can",
+          "Try to aim for unbroken sets"
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Pull ups",
+        "mode": "Calisthenics",
+        "equipment": [
+          "Pull up bar"
+        ],
+        "exercises": [
+          "10 normal grip pull ups",
+          "8 close grip pull ups",
+          "8 wide grip pull ups",
+          "30s L-sit"
+        ],
+        "createdAt": "12/05/2022, 12:21:56 PM",
+        "updatedAt": "12/05/2022, 12:21:56 PM",
+        "trainerTips": [
+          "Grip the bar tightly from above",
+          "Pull up to your chest, hold and go down"
+        ]
+      }
+    ]
+  }
